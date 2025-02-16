@@ -1,4 +1,4 @@
-# VortexAllocator - Custom Memory Allocator
+# VortexAllocator - Custom Arena Based Memory Allocator
 
 ### Steps to build and run the example
 
